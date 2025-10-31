@@ -1,5 +1,7 @@
 # Vulkan Portfolio Renderer
 
+
+![Demo Screenshot](demo/sh.gif)
 Минимальный, но функциональный 3D-рендер на Vulkan для демонстрации навыков рендеринг-инженера.
 
 ## Особенности
@@ -133,10 +135,6 @@ layout(binding = 1) uniform LightingUBO {
 - [ ] PBR (Physically Based Rendering)
 - [ ] Post-processing эффекты
 - [ ] ImGui для отладочного UI
-
-## Скриншоты
-
-![Demo Screenshot](screenshots/demo.png)
 
 ## Лицензия
 
