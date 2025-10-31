@@ -1,0 +1,17 @@
+#pragma once
+VK_LAYER_OBS_HOOK - Open Broadcaster Software hook
+VK_LAYER_RTSS - RTSS overlay hook bootstrap
+VK_LAYER_VALVE_steam_fossilize - Steam Pipeline Caching Layer
+VK_LAYER_VALVE_steam_overlay - Steam Overlay Layer
+VK_LAYER_NV_optimus - NVIDIA Optimus layer
+VK_LAYER_NV_present - NVIDIA GR2608 layer
+VK_LAYER_OBS_HOOK - Open Broadcaster Software hook
+VK_LAYER_KHRONOS_validation - Khronos Validation Layer
+VK_LAYER_LUNARG_api_dump - LunarG API dump layer
+VK_LAYER_LUNARG_crash_diagnostic - Crash Diagnostic Layer is a crash/hang debugging tool that helps determines GPU progress in a Vulkan application.
+VK_LAYER_LUNARG_gfxreconstruct - GFXReconstruct Capture Layer Version 1.0.5
+VK_LAYER_LUNARG_monitor - Execution Monitoring Layer
+VK_LAYER_LUNARG_screenshot - LunarG image capture layer
+VK_LAYER_KHRONOS_profiles - Khronos Profiles layer
+VK_LAYER_KHRONOS_shader_object - Khronos Shader object layer
+VK_LAYER_KHRONOS_synchronization2 - Khronos Synchronization2 layer
